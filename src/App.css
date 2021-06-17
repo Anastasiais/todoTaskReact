@@ -123,6 +123,7 @@ select {
   font-family: "Poppins", sans-serif;
   cursor: pointer;
   width: 12rem;
+  height: 53px;
 }
 /* Arrow */
 .select::after {
